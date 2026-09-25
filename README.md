@@ -5,7 +5,7 @@
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=Pushkalgithub&label=Profile%20Views&color=00F5FF&style=for-the-badge" alt="Profile Views" />
-<img src="https://img.shields.io/badge/dynamic/json?color=00F5FF&label=Publications&query=%2411%2B&url=https%3A%2F%2Fapi.github.com&style=for-the-badge" alt="Publications" />
+<img src="https://img.shields.io/badge/Publications-11%2B-00F5FF?style=for-the-badge" alt="Publications" />
 <img src="https://img.shields.io/badge/Location-Sydney%2C%20Australia-00F5FF?style=for-the-badge" alt="Location" />
 
 </div>
@@ -106,7 +106,7 @@ class PushkalGarg:
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pushkalgithub&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" />
+<img src="https://streak-stats.demolab.com/?user=Pushkalgithub&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" />
 
 <br>
 
