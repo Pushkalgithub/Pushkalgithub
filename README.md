@@ -31,7 +31,7 @@ class PushkalGarg:
 ```
 
 - 🔭 Currently building and maintaining one of **Australia's largest ecology data portals** (3M+ trait observations) at UNSW
-- 🧠 Researching **teacher workforce distribution & housing affordability** at HATS Lab, and **AI-driven clinical triage** with TRIBOT
+- 🧠 Researching **teacher workforce distribution & housing affordability** at H Lab, and **AI-driven clinical triage** with TRIBOT
 - ☁️ Architected an **end-to-end IoT sensor pipeline** (MQTT → InfluxDB → Grafana) on AWS EC2, replacing a third-party vendor platform across 8 field dataloggers
 - 📄 Author of **11+ peer-reviewed publications** spanning ML/DL, healthcare analytics, business AI, and marketing — including a **Best Paper Award**
 - 🏆 4x Student Excellence Award winner for Research (Manipal University Jaipur), 6x national CTF placement (Cryptography & Cybersecurity)
