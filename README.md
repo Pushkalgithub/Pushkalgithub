@@ -43,7 +43,6 @@ class PushkalGarg:
 <div align="center">
 
 **Languages**
-
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -52,18 +51,6 @@ class PushkalGarg:
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-
-**Core Domains**
-
-<img src="https://img.shields.io/badge/Data_Analytics-00F5FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Data_Visualization-00F5FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Statistical_Analysis-00F5FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Full_Stack_Web_Dev-00F5FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Machine_Learning-00F5FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Deep_Learning-00F5FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/NLP-00F5FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Computer_Vision-00F5FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/IoT_Data_Pipelines-00F5FF?style=for-the-badge" />
 
 **Libraries & Tools**
 
@@ -115,16 +102,7 @@ class PushkalGarg:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pushkalgithub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=C9D1D9&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pushkalgithub&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9&langs_count=10" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com/?user=Pushkalgithub&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" />
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pushkalgithub&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FFFFFF" width="100%">
+<img src="https://streak-stats.demolab.com/?user=Pushkalgithub&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF&hide=currStreak" />
 
 </div>
 
