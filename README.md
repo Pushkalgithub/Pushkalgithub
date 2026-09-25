@@ -153,11 +153,3 @@ class PushkalGarg:
 </a>
 
 </div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12,18,25&section=footer" width="100%">
-
-<div align="center">
-<i>"Turning challenges into measurable outcomes, one dataset at a time."</i>
-</div>
