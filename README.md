@@ -138,60 +138,6 @@ class PushkalGarg:
 
 <br>
 
-## 💼 Featured Work
-
-<table>
-<tr>
-<td width="50%">
-
-**🧬 Enhanced Disease Detection (ML & DL)**
-Predictive model forecasting 70+ diseases from 250+ symptoms with a dynamic frontend.
-`Python` `Scikit-learn` `TensorFlow` `Streamlit`
-**91.74% accuracy**
-
-</td>
-<td width="50%">
-
-**🧠 Depression Among Students: Data Analysis Study**
-Data-driven study across 150+ students using psychometric survey data.
-`Python` `Tableau` `Power BI` `SQL`
-Personalized recommendations delivered to 50+ students
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**📈 ETF Investor Profile Base Analysis**
-Behavioral analysis of 1.38 Cr ETF investors via AWS Athena.
-`AWS Athena` `SQL` `Tableau` `Pandas`
-Found 1% of HNI investors held **91.25%** of total AUM
-
-</td>
-<td width="50%">
-
-**🌐 IoT Sensor Pipeline @ UNSW**
-End-to-end pipeline replacing a third-party vendor across 8 field dataloggers.
-`MQTT` `InfluxDB` `Grafana` `AWS EC2`
-Automated alerting + live dashboards, zero vendor dependency
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## 🏆 Awards & Leadership
-
-- 🎖️ **4x** Student Excellence Award for Research — Manipal University Jaipur
-- 🥇🥈🥉 **6x** national CTF placements in Cryptography & Cybersecurity across India
-- 🌍 General Secretary, **International Student Cell** — led 50+ events for 8,000+ students across 20+ countries
-- 🤖 Technical Secretary, **ACM SIGAI** — drove AI programs and project QA for 8,000+ students
-- 🗣️ IELTS Academic: **8.0/9.0** (Listening 9, Reading 9)
-- 📜 Google Data Analytics Specialization · Kaggle ML Specialization · 6★ SQL HackerRank
-
-<br>
-
 ## 📫 Let's Connect
 
 <div align="center">
