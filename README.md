@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Pushkal+Garg+%F0%9F%91%8B;Software+Engineer+%40+UNSW+Sydney;Data+Scientist+%7C+ML%2FAI+Researcher;IoT+%26+Cloud+Infrastructure+Builder;11%2B+Peer-Reviewed+Publications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Pushkal+Garg+%F0%9F%91%8B;Software+Engineer+%40+UNSW+Sydney;Data+Scientist+%7C+ML%2FAI+Researcher;IoT+%26+Cloud+Infrastructure+Builder;11%2B+Peer-Reviewed+Publications" alt="Typing SVG" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Pushkalgithub&label=Profile%20Views&color=00F5FF&style=for-the-badge" alt="Profile Views" />
-<img src="https://img.shields.io/badge/Publications-11%2B-00F5FF?style=for-the-badge" alt="Publications" />
-<img src="https://img.shields.io/badge/Location-Sydney%2C%20Australia-00F5FF?style=for-the-badge" alt="Location" />
+<img src="https://komarev.com/ghpvc/?username=Pushkalgithub&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/badge/Publications-11%2B-8B5CF6?style=for-the-badge" alt="Publications" />
+<img src="https://img.shields.io/badge/Location-Sydney%2C%20Australia-8B5CF6?style=for-the-badge" alt="Location" />
 
 </div>
 
@@ -82,11 +82,11 @@
 
 <br>
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics — 2026
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Pushkalgithub&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF&hide=currStreak" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pushkalgithub&year=2026&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FFFFFF" width="100%">
 
 </div>
 
@@ -125,7 +125,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://pushkal-garg-portfolio.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-00F5FF?style=for-the-badge&logo=vercel&logoColor=black" />
+<img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=black" />
 </a>
 
 </div>
