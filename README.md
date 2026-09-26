@@ -82,11 +82,11 @@
 
 <br>
 
-## 📊 GitHub Analytics — 2026
+## 📊 GitHub Analytics — Last 365 Days
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pushkalgithub&year=2026&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FFFFFF" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pushkalgithub&days=365&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FFFFFF" width="100%" alt="GitHub Activity Graph">
 
 </div>
 
