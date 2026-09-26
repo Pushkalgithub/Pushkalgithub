@@ -12,32 +12,6 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,18,25&section=header" width="100%">
-
-## 🚀 About Me
-
-```python
-class PushkalGarg:
-    def __init__(self):
-        self.role         = "Software Engineer @ UNSW Sydney"
-        self.study         = "M.Sc Data Science & Decisions, UNSW Sydney"
-        self.research      = ["HATS Lab (Housing & Teacher Policy)", "TRIBOT (Clinical Triage AI)"]
-        self.publications   = "11+ peer-reviewed papers, 1x Best Paper Award"
-        self.based_in       = "Sydney, Australia 🇦🇺 (originally from India 🇮🇳)"
-        self.currently_building = "IoT sensor pipelines, ML frameworks, and data infrastructure at scale"
-
-    def say_hi(self):
-        return "Always up for a conversation about data, research, or building something real."
-```
-
-- 🔭 Currently building and maintaining one of **Australia's largest ecology data portals** (3M+ trait observations) at UNSW
-- 🧠 Researching **teacher workforce distribution & housing affordability** at HATS Lab, and **AI-driven clinical triage** with TRIBOT
-- ☁️ Architected an **end-to-end IoT sensor pipeline** (MQTT → InfluxDB → Grafana) on AWS EC2, replacing a third-party vendor platform across 8 field dataloggers
-- 📄 Author of **11+ peer-reviewed publications** spanning ML/DL, healthcare analytics, business AI, and marketing — including a **Best Paper Award**
-- 🌱 Previously: IT Intern (BI & AI) @ Nippon India Mutual Fund, R&D Intern @ DRDO (Ministry of Defence, Govt. of India)
-
-<br>
-
 ## 🛠️ Tech Stack
 
 <div align="center">
