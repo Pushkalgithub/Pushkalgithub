@@ -86,7 +86,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pushkalgithub&days=365&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FFFFFF" width="100%" alt="GitHub Activity Graph">
+<img src="https://github.pumbas.net/api/contributions/Pushkalgithub?days=365&colour=8B5CF6&bgColour=0D1117&dotColour=8B5CF6&borderRadius=0" width="100%" alt="GitHub Contributions — Last 365 Days">
 
 </div>
 
