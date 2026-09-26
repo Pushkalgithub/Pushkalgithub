@@ -82,16 +82,6 @@
 
 <br>
 
-## 📊 GitHub Analytics — Last 365 Days
-
-<div align="center">
-
-<img src="https://github.pumbas.net/api/contributions/Pushkalgithub?days=365&colour=8B5CF6&bgColour=0D1117&dotColour=8B5CF6&borderRadius=0" width="100%" alt="GitHub Contributions — Last 365 Days">
-
-</div>
-
-<br>
-
 ## 🎓 Research Publications
 
 <div align="center">
