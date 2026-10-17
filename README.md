@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Pushkalgithub&label=Profile%20Views&color=8B5CF6&style=for-the-badge&v=20261018" alt="Profile Views" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fkomarev.com%2Fghpvc%2F%3Fusername%3DPushkalgithub&query=%24&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="Profile Views" />
 <img src="https://img.shields.io/badge/Publications-11%2B-8B5CF6?style=for-the-badge" alt="Publications" />
 <img src="https://img.shields.io/badge/Location-Sydney%2C%20Australia-8B5CF6?style=for-the-badge" alt="Location" />
 
