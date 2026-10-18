@@ -5,8 +5,8 @@
 <br>
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Pushkalgithub.Pushkalgithub&color=8B5CF6&style=for-the-badge" alt="Profile Views" />
-<img src="https://img.shields.io/badge/Publications-11%2B-8B5CF6?style=for-the-badge" alt="Publications" />
-<img src="https://img.shields.io/badge/Location-Sydney%2C%20Australia-8B5CF6?style=for-the-badge" alt="Location" />
+<img src="https://img.shields.io/badge/Publications-11%2B-8B5CF6?style=flat-square" alt="Publications" />
+<img src="https://img.shields.io/badge/Location-Sydney%2C%20Australia-8B5CF6?style=flat-square" alt="Location" />
 
 </div>
 
